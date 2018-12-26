@@ -1,0 +1,10 @@
+.Task {
+    width: 50%;
+    height: auto;
+    display: inline-block;
+}
+
+.deleteBtn{
+    margin-right: 5px;
+     left: 0px;
+}
